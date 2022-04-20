@@ -1,0 +1,79 @@
+-| Tool steel
+   in general all tool steel offered by 3dhubs have good magnetic
+      properties
+   the ones not listed are more expensive than d2/a2/a3
+   wall thickness 0.75 mm
+
+   -| Tool steel D2 1.2379
+      https://www.hubs.com/cnc-machining/metal/tool-steel/tool-steel-d2/
+      magnetic
+      not super expensive
+      electrical resistivity 65 - 70 μΩ*cm
+
+   -| Tool steel A2 1.2363
+      https://www.hubs.com/cnc-machining/metal/tool-steel/tool-steel-a2/
+      magnetic
+      fractionally less expensive than d2
+
+   -| Tool steel A3
+      https://www.hubs.com/cnc-machining/metal/tool-steel/tool-steel-a3/
+      magnetic
+      fractionally less expensive than a2
+      good hardness
+
+-| Alloy steel 1215
+   https://www.hubs.com/cnc-machining/metal/alloy-steel/alloy-steel-1215/
+   the only magnetic steel offered by 3dhubs
+   electrical resistivity 17.4 μΩ*cm
+   cheaper than tool steel
+
+-| Mild steel
+   no mild steel from 3dhubs has good magnetic properties
+
+-| Stainless steel
+   wall thickness 0.75 mm
+
+   -| Stainless steel 17-4PH
+      https://www.hubs.com/cnc-machining/metal/stainless-steel/stainless-steel-17-4/
+      magnetic
+      electrical resistivity 75 - 85 μΩ*cm
+      almost the same price as tool steel d2 (a bit higher price cents wise)
+
+   -| Stainless steel 416
+      https://www.hubs.com/cnc-machining/metal/stainless-steel/stainless-steel-416/
+      magnetic
+      electrical resistivity 57 μΩ*cm
+      almost the same price as tool steel d2 (a bit cheaper price cents wise)
+
+   -| Stainless steel 2205 Duplex
+      https://www.hubs.com/cnc-machining/metal/stainless-steel/stainless-steel-2205-duplex/
+      magnetic
+      electrical resistivity 78.4 - 81.6 μΩ*cm
+      more expensive
+
+   -| Stainless steel 420
+      https://www.hubs.com/cnc-machining/metal/stainless-steel/stainless-steel-420/
+      magnetic
+      electrical resistivity 49 - 60 μΩ*cm
+      almost the same price as tool steel d2 (a bit higher price cents wise)
+
+   -| Stainless steel 440C
+      https://www.hubs.com/cnc-machining/metal/stainless-steel/stainless-steel-440c/
+      magnetic
+      electrical resistivity 60 μΩ*cm
+      a bit more expensive than tool steel d2
+
+   -| Stainless steel 430
+      https://www.hubs.com/cnc-machining/metal/stainless-steel/stainless-steel-430/
+      magnetic
+      electrical resistivity 60 μΩ*cm
+      almost the same price as tool steel d2 (a bit cheaper price cents wise)
+
+   -| Stainless steel 15-5
+      https://www.hubs.com/cnc-machining/metal/stainless-steel/stainless-steel-15-5/
+      magnetic
+      electrical resistivity 77 μΩ*cm
+      almost the same price as tool steel d2 (a bit cheaper)
+
+-| Invar steel is magnetic but very expensive
+   wall thickness 0.75 mm
